@@ -1,127 +1,127 @@
 # FAQ
 
-1. What's the relationship between ANS and Neo?
+1. *What is the relationship between ANS and Neo?*
 
-   Neo is the new name of Antshares(ANS), Neo gas is the new name of Antcoins(ANC). Your ANS will become Neo automatically after the rebrand. Similarly, Your ANC will become Neo Gas as well.
-
-   ​
-
-2. What's the relationship between Neo and Neo Gas?
-
-   Neo is the shares of the Neo blockchain system. As long as you possess Neo, Neo Gas will generated automatically in system according to generation strategy and you can claim your Neo gas as dividends. Neo stands for ownership of the system, Neo gas stands for the right to use the system.
+   Neo is the new name of Antshares (ANS), Neo Gas is the new name of Antcoins (ANC). Your ANS will become Neo automatically after the rebrand. Similarly, Your ANC will become Neo Gas as well.
 
    ​
 
-3. Is there a transfer fee between Neo wallets?
+2. *What is the relationship between Neo and Neo Gas?*
 
-   Transfer fee is 0 for now. You can transfer Neo or Neo gas without paying the transfer fee.
-
-   ​
-
-4. Is there a transfer fee between Neo wallet and exchange?
-
-   It depends on the exchange rules. Transfer fee is 0 in Neo system for now.
+   Neo are the shares of the Neo blockchain system. As long as you hold Neo in your wallet, Neo Gas will be generated automatically in system according to generation strategy and you can claim your Neo gas as dividends. Neo stands for ownership of the system, while Neo Gas stands for the right to use the system. Note that some exchanges do not return Neo Gas to their users, while others do.
 
    ​
 
-5. How can I check the status of my transaction?
+3. *Is there a transfer fee between Neo wallets?*
 
-   You can check it on Neo blockchain browser, such as http://antcha.in or http://antchain.xyz.
-
-   ​
-
-6. How do I know I'm fully synced?
-
-   You can check the height on Neo blockchain and your wallet. If the height of your wallet is the same as the browser it means your wallet is fully synced, otherwise, it's not.
+   There is no transfer fee for now. You can transfer Neo or Neo gas without extra costs. This might change in the future.
 
    ​
 
-7. How big is the wallet sized when fully synced?
+4. *Is there a transfer fee between Neo wallets and exchanges?*
 
-   A. PC client: 1GB or so.
-
-   B. Web or App client: 0.
+   It depends on the exchange rules; right now, there is no transfer fee in the Neo system.
 
    ​
 
-8. How long does it take to sync my wallet?
+5. *How can I check the status of my transaction?*
 
-   A. PC client: You can use accelerate sync package(download it from https://www.antshares.org/client/chain.acc.zip) and sync process will be 10 minutes or so. If you sync from height 0, it will take you several hours.
-
-   B. Web or App client: If the network is fine, it will sync 12000 blocks per hour. If you are experiencing a long sync, it is possible that using VPN or proxy could speed up the syncing process.
+   You can check it on any Neo blockchain explorer, such as http://antcha.in or http://antchain.xyz. You can find additional blockchain explorers in the sidebar of the [Neo subreddit](https://www.reddit.com/r/NEO/).
 
    ​
 
-9. I can't see my Neo in my wallet?
+6. *How do I know whether my wallet is fully synchronised with the blockchain?*
 
-   1. you can check your balance if it's right on blockchain browser of the Neo. (http://antcha.in or https://antchain.xyz/)
-
-   2. You have to wait your wallet fully synced. If your wallet is fully synced, and there is still no Neo in your wallet, then:
-
-      A. PC client: Re-index your wallet.
-
-      B. Web or App client: Refresh your browser(Win: Ctrl+F5, Mac: Command+shift+r).
+   You can check the height on a Neo blockchain explorer and in your wallet. If the height of your wallet is the same as on the explorer, it means your wallet is fully synced; otherwise, it is not.
 
    ​
 
-10. For Mac user, how could I claim Neo Gas(antcoins)?
+7. *What size is the wallet when it is fully synchronised?*
 
-    For now Mac user cannot claim Neo Gas. However, Neo Gas will be generated automatically as long as you keep them in your address.
+   A. **PC client**: 1GB or so.
+
+   B. **Web or App client**: 0.
+
+   ​
+
+8. *How long does it take to synchronise my wallet?*
+
+   A. **PC client**: You can use the accelerate sync package (download it from [here](https://www.antshares.org/client/chain.acc.zip)), which will speed up the sync process to around 10 minutes. If you sync from height 0 (in other words: without any previous synchronisation), it will take you several hours.
+
+   B. **Web or App client**: If the network is working normally, it will synchronise about 12000 blocks per hour. If you are experiencing a long sync, it is possible that using VPN or a proxy could speed up the synchronisation process.
+
+   ​
+
+9. *I can't see my Neo in my wallet! Is it gone?*
+
+   1. Most of the time, whenever your Neo or Neo Gas is not showing up in your wallet, the problem lies with the wallet. To make sure your Neo is safe, you can check your balance on a Neo blockchain explorer, such as http://antcha.in or https://antchain.xyz/. 
+
+   2. Make sure your wallet is fully synchronised. If it is, and there is still no Neo in your wallet, then:
+
+      A. **PC client**: Re-index your wallet.
+
+      B. **Web or App client**: Refresh your browser (Windows: *Ctrl+F5*, Mac: *Command+shift+r*).
+
+   ​
+
+10. *How can a Mac user claim Neo Gas?*
+
+    Mac users can use [this link](https://github.com/CityOfZion/neon-wallet/releases/download/0.0.5/Mac.Neon-0.0.5.dmg) to download the NEON wallet, which they can use to claim Gas (and send Neo/Neo Gas). 
 
   ​
 
-11. If I keep my Neo in exchange how could I get my Neo Gas(antcoins)?
+11. *If I keep my Neo on an exchange, can I still get my Neo Gas?*
 
-    If you keep your Neo in exchange, you cannot claim Neo Gas.
-
-    ​
-
-12. How many Neo do I need to earn Neo gas?
-
-    The smallest unit of Neo is 1. The smallest unit of Neo Gas is 0.00000001(one hundred millionth). As long as you possess Neo(at least 1 Neo), Neo gas will be generated automatically. 
+    This depends on the exchange; some (like [Binance](https://www.binance.com/)) have chosen to give users their Neo Gas when you leave your Neo on the exchange, while others (like [Bittrex](https://www.bittrex.com/)) keep the Neo for themselves. If you want to make sure you receive your Gas, move your Neo to a private wallet and manually claim your Gas.
 
     ​
 
-9. I have sent x amount of ANS/Neo to my wallet, it hasn't arrived, why? 
+12. *How many Neo do I need to start earning Neo Gas?*
+
+    The smallest unit of Neo is 1, in other words: it is indivisible. The smallest unit of Neo Gas is 0.00000001 (one hundred millionth). As long as you possess Neo (at least 1 Neo), Neo Gas will be generated automatically. You can calculate how much Neo Gas you would generate with x amount of Neo on https://neotogas.com/.
+
+    ​
+
+9. *I have sent x amount of Neo/Neo Gas to my wallet, but it has not arrived yet. Why? *
 
    1. Please confirm with the crypto currency exchange from which you made the transfer that the transaction was successful. If so: 
 
-   2. Please check the status of your transaction/account on a block explorer (see Question 5): 
+   2. Please check the status of your transaction/account on a blockchain explorer (see Question 5): 
 
-      A. Once a transaction id has been generated and is on the block explorer, the transaction is successful and said amount has been transferred to your account. If the wallet does not display the correct balance, it is likely not synced up to date. To check if the wallet is up-to-date, see Question 6. To speed up the syncing process, see Question 8.
+      A. Once a transaction ID has been generated and the ID can be seen on the blockchain explorer, the transaction is successful and said amount has been transferred to your account. If the wallet does not display the correct balance, it is likely not fully synchronised. To check whether this is true, see Question 6. For instructions how to speed up the syncing process, see Question 8.
 
-      B. If you cannot find the transaction on the explorer, please contact the party sending said Neo/ANS, for the transaction is not completed. 
+      B. If you cannot find the transaction on the blockchain explorer, please contact the party sending said Neo/Neo Gas, since the transaction was not completed. 
 
    ​
    
-14. What is the difference between the electron wallet and the new NEO GUI wallet?
+14. *What is the difference between a light wallet like NEON, and the NEO GUI wallet?*
 
-    The desktop client downloads the whole chain to your computer. The electron wallet uses an API to interact with the blockchain.
-
-   ​
-    
-15. Is the way of storing NEO as same as Bitcoin? I am nervous about the store safety.
-
-    Yes. If you are holding NEO then you are always keeping it online. Storing private keys offline means your coins are safe and can not be touched.
-    
-   ​
-    
-16. Is there a central point where I can find important dates/ delays?
-
-    Reddit: https://www.reddit.com/r/NEO/
-
-   ​
-
-17. Can I still run the antshares wallet program(windows) or is there a new one I can download with a new name?
-
-    The new desktop client is the same, only the name changed and ANS is NEO, and ANC is Neo-Gas. It is also a need to have to sync the blockchain again.
+    The desktop client (NEO GUI) downloads the whole blockchain to your computer. Light wallets use an API to interact with the blockchain, thus requiring less storage space while still enabling you to make transactions on the blockchain.
 
    ​
     
-18. What is the purpose of rebranding? What new things will the rebranding bring?
+15. *Can you store Neo the same way as Bitcoin? I am nervous about the storage safety.*
 
-    NEO wants to be more professional, combining digital assets, securing digital identity and allowing users to write smart contracts in multiple coding languages like Javascript, C++ and Python.
+    Yes. If you are holding NEO, then you are always keeping it online. Storing private keys offline means your coins are safe and can not be touched.
     
-    NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve "smart economy" with a distributed network.
+   ​
     
-    Additional features will include NeoMessage that supports secure, encrypted peer-to-peer messaging and NeoFS, a distributed cloud storage. Smart fund investments, Online Networking and a Decentralized Exchange will also be implemented in the near future.
+16. *Is there a central point where I can find important dates/delays?*
+
+    See the Neo subreddit: https://www.reddit.com/r/NEO/
+
+   ​
+
+17. *Can I still run the antshares wallet program (windows) or is there a new one I can download with a new name?*
+
+    The new desktop client is the same, only the name changed and ANS is NEO, and ANC is Neo Gas. It also needs to synchronise with the blockchain again.
+
+   ​
+    
+18. *What is the purpose of rebranding? What new things did the rebranding bring?*
+
+    NEO aspires to be more professional, combining digital assets, securing digital identities and allowing users to write smart contracts in multiple coding languages like Javascript, C++ and Python.
+    
+    NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve a "smart economy" with a distributed network.
+    
+    Additional features will include **NeoMessage** that supports secure, encrypted peer-to-peer messaging, and **NeoFS**, a distributed cloud storage. Smart fund investments, Online Networking and a Decentralized Exchange will also be implemented in the near future.
